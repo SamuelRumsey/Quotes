@@ -1,0 +1,1 @@
+**Quotes** is a simple program built for the *Programming 1 - Java* course's *New Code Forum* discussion page. It adds in an Anthology object which holds a collection of Quotes that can be printed entirely randomly, or randomly filtered by author.
